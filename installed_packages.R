@@ -15,3 +15,4 @@ ipt <- installed.packages() %>%
   select(Package, LibPath, Version, Priority, Built)
 
 ipt
+devtools::session_info()
