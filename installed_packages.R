@@ -16,3 +16,5 @@ ipt <- installed.packages() %>%
 
 ipt
 devtools::session_info()
+
+# added comment via browser
